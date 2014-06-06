@@ -5,7 +5,7 @@
 /**
  * @module WebApp
  */
-var WebApp = (function(){
+var SomeModule = (function(){
     var WebApp = {};
 
     /**

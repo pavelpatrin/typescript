@@ -2,7 +2,7 @@
  * Created by pavelpat on 03.06.14.
  */
 
-module WebApp
+module Some.Module
 {
     /**
      * Публичная переменная модуля.
@@ -43,21 +43,21 @@ module WebApp
 }
 
 // Доступ к переменной из пространства имен.
-WebApp.SomeVar = 'Hello moto!';
+Some.Module.SomeVar = 'Hello moto!';
 
 // Вызов функции из пространства имен.
-WebApp.SomeFunc();
+Some.Module.SomeFunc();
 
 // Ошибка компиляции.
-//WebApp.PrivateFunc();
+//Some.Module.PrivateFunc();
 
 // Инстанцирование класса из пространства имен.
-var instance = new WebApp.SomeClass();
+var instance = new Some.Module.SomeClass();
 instance.alert();
 
 // Импортирование части модуля.
-var SomeClass1 = WebApp.SomeClass;
+var SomeClass1 = Some.Module.SomeClass;
 new SomeClass1();
 
-import SomeClass2 = WebApp.SomeClass;
+import SomeClass2 = Some.Module.SomeClass;
 new SomeClass2;
