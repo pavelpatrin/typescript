@@ -2,17 +2,18 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/2. Attributes/script.js" />
-        <item url="file://$PROJECT_DIR$/4. Enums/TypeScript/1. Introduction/script.js" />
         <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/1. Introduction/script.js" />
         <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/3. Signature overloading/script.js" />
-        <item url="file://$PROJECT_DIR$/1. Hello world/TypeScript/1. Introduction/script.js" />
-        <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/3. Static keyword/script.js" />
         <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/4. Generics/script.js" />
         <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/2. Advanced use/script.js" />
-        <item url="file://$PROJECT_DIR$/1. Hello world/TypeScript/2. Advanced/script.js" />
         <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/2. Inheritance/script.js" />
         <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/5. Generics. Complex example/script.js" />
+        <item url="file://$PROJECT_DIR$/4. Interfaces/TypeScript/script.js" />
+        <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/2. Attributes/script.js" />
+        <item url="file://$PROJECT_DIR$/4. Enums/TypeScript/script.js" />
+        <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/3. Static keyword/script.js" />
+        <item url="file://$PROJECT_DIR$/1. Hello world/TypeScript/1. Introduction/script.js" />
+        <item url="file://$PROJECT_DIR$/1. Hello world/TypeScript/2. Advanced/script.js" />
         <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/1. Introduction/script.js" />
         <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/4. Access modifiers/script.js" />
       </sourceFilesUrls>
@@ -30,11 +31,12 @@
       <root url="file://$PROJECT_DIR$/2. Functions/TypeScript/2. Advanced use/script.js" />
       <root url="file://$PROJECT_DIR$/3. Classes/TypeScript/2. Inheritance/script.js" />
       <root url="file://$PROJECT_DIR$/2. Functions/TypeScript/5. Generics. Complex example/script.js" />
+      <root url="file://$PROJECT_DIR$/4. Interfaces/TypeScript/script.js" />
       <root url="file://$PROJECT_DIR$/3. Classes/TypeScript/2. Attributes/script.js" />
       <root url="file://$PROJECT_DIR$/5. Internal modules/TypeScript/script.js" />
       <root url="file://$PROJECT_DIR$/4. Enums/TypeScript/script.js" />
-      <root url="file://$PROJECT_DIR$/3. Classes/TypeScript/3. Static keyword/script.js" />
       <root url="file://$PROJECT_DIR$/1. Hello world/TypeScript/1. Introduction/script.js" />
+      <root url="file://$PROJECT_DIR$/3. Classes/TypeScript/3. Static keyword/script.js" />
       <root url="file://$PROJECT_DIR$/1. Hello world/TypeScript/2. Advanced/script.js" />
       <root url="file://$PROJECT_DIR$/2. Functions/TypeScript/1. Introduction/script.js" />
       <root url="file://$PROJECT_DIR$/3. Classes/TypeScript/4. Access modifiers/script.js" />
