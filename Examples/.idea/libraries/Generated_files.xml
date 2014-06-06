@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/script.js" />
+        <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/1. Introduction/script.js" />
+        <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/3. Signature overloading/script.js" />
+        <item url="file://$PROJECT_DIR$/1. Hello world/TypeScript/1. Introduction/script.js" />
+        <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/4. Generics/script.js" />
+        <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/2. Advanced use/script.js" />
+        <item url="file://$PROJECT_DIR$/1. Hello world/TypeScript/2. Advanced/script.js" />
+        <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/2. Inheritance/script.js" />
+        <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/5. Generics. Complex example/script.js" />
+        <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/1. Introduction/script.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/1. Hello world/TypeScript/sctipt.js" />
+      <root url="file://$PROJECT_DIR$/1. Hello world/TypeScript/sctipt.js" />
+      <root url="file://$PROJECT_DIR$/3. Classes/TypeScript/3. Interfaces/script.js" />
+      <root url="file://$PROJECT_DIR$/3. Classes/TypeScript/3. Interfaces/script.js" />
+      <root url="file://$PROJECT_DIR$/2. Functions/TypeScript/script.js" />
+      <root url="file://$PROJECT_DIR$/2. Functions/TypeScript/script.js" />
+      <root url="file://$PROJECT_DIR$/4. Internal modules/TypeScript/script.js" />
+      <root url="file://$PROJECT_DIR$/3. Classes/TypeScript/1. Introduction/script.js" />
+      <root url="file://$PROJECT_DIR$/1. Hello world/TypeScript/1. Introduction/script.js" />
+      <root url="file://$PROJECT_DIR$/2. Functions/TypeScript/3. Signature overloading/script.js" />
+      <root url="file://$PROJECT_DIR$/2. Functions/TypeScript/4. Generics/script.js" />
+      <root url="file://$PROJECT_DIR$/2. Functions/TypeScript/2. Advanced use/script.js" />
+      <root url="file://$PROJECT_DIR$/3. Classes/TypeScript/2. Inheritance/script.js" />
+      <root url="file://$PROJECT_DIR$/1. Hello world/TypeScript/2. Advanced/script.js" />
+      <root url="file://$PROJECT_DIR$/2. Functions/TypeScript/5. Generics. Complex example/script.js" />
+      <root url="file://$PROJECT_DIR$/2. Functions/TypeScript/1. Introduction/script.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
