@@ -3,18 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1. Hello world/1. Hello world.iml" filepath="$PROJECT_DIR$/1. Hello world/1. Hello world.iml" />
-      <module fileurl="file://$PROJECT_DIR$/10. Debugging and source maps/10. Debugging and source maps.iml" filepath="$PROJECT_DIR$/10. Debugging and source maps/10. Debugging and source maps.iml" />
-      <module fileurl="file://$PROJECT_DIR$/11. TypeScript vs Dart vs CoffeeScript/11. TypeScript vs Dart vs CoffeeScript.iml" filepath="$PROJECT_DIR$/11. TypeScript vs Dart vs CoffeeScript/11. TypeScript vs Dart vs CoffeeScript.iml" />
-      <module fileurl="file://$PROJECT_DIR$/12. Refactoring/12. Refactoring.iml" filepath="$PROJECT_DIR$/12. Refactoring/12. Refactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. Definetely typed/10. Definetely typed.iml" filepath="$PROJECT_DIR$/10. Definetely typed/10. Definetely typed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. Debugging and source maps/11. Debugging and source maps.iml" filepath="$PROJECT_DIR$/11. Debugging and source maps/11. Debugging and source maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12. TypeScript vs Dart vs CoffeeScript/12. TypeScript vs Dart vs CoffeeScript.iml" filepath="$PROJECT_DIR$/12. TypeScript vs Dart vs CoffeeScript/12. TypeScript vs Dart vs CoffeeScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13. Refactoring/13. Refactoring.iml" filepath="$PROJECT_DIR$/13. Refactoring/13. Refactoring.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. Functions/2. Functions.iml" filepath="$PROJECT_DIR$/2. Functions/2. Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/3. Classes/3. Classes.iml" filepath="$PROJECT_DIR$/3. Classes/3. Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/4. Enums/4. Enums.iml" filepath="$PROJECT_DIR$/4. Enums/4. Enums.iml" />
-      <module fileurl="file://$PROJECT_DIR$/4. Interfaces/4. Interfaces.iml" filepath="$PROJECT_DIR$/4. Interfaces/4. Interfaces.iml" />
-      <module fileurl="file://$PROJECT_DIR$/5. Internal modules/5. Internal modules.iml" filepath="$PROJECT_DIR$/5. Internal modules/5. Internal modules.iml" />
-      <module fileurl="file://$PROJECT_DIR$/6. External modules/6. External modules.iml" filepath="$PROJECT_DIR$/6. External modules/6. External modules.iml" />
-      <module fileurl="file://$PROJECT_DIR$/7. Automation tools/7. Automation tools.iml" filepath="$PROJECT_DIR$/7. Automation tools/7. Automation tools.iml" />
-      <module fileurl="file://$PROJECT_DIR$/8. Testing/8. Testing.iml" filepath="$PROJECT_DIR$/8. Testing/8. Testing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/9. Definetely typed/9. Definetely typed.iml" filepath="$PROJECT_DIR$/9. Definetely typed/9. Definetely typed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Interfaces/5. Interfaces.iml" filepath="$PROJECT_DIR$/5. Interfaces/5. Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. Internal modules/6. Internal modules.iml" filepath="$PROJECT_DIR$/6. Internal modules/6. Internal modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7. External modules/7. External modules.iml" filepath="$PROJECT_DIR$/7. External modules/7. External modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8. Automation tools/8. Automation tools.iml" filepath="$PROJECT_DIR$/8. Automation tools/8. Automation tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9. Testing/9. Testing.iml" filepath="$PROJECT_DIR$/9. Testing/9. Testing.iml" />
     </modules>
   </component>
 </project>

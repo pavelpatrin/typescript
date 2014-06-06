@@ -41,6 +41,13 @@ var Some;
     var Module = Some.Module;
 })(Some || (Some = {}));
 
+var Other;
+(function (Other) {
+    var SomeModule = Some.Module;
+
+    SomeModule.SomeFunc();
+})(Other || (Other = {}));
+
 // Доступ к переменной из пространства имен.
 Some.Module.SomeVar = 'Hello moto!';
 

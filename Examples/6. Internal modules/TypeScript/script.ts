@@ -42,6 +42,13 @@ module Some.Module
     }
 }
 
+module Other
+{
+    import SomeModule = Some.Module;
+
+    SomeModule.SomeFunc();
+}
+
 // Доступ к переменной из пространства имен.
 Some.Module.SomeVar = 'Hello moto!';
 

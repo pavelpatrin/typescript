@@ -2,10 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23ec3c19-16d7-4732-91b7-010c380089f5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4. Interfaces/TypeScript/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4. Interfaces/TypeScript/script.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6. Internal modules/TypeScript/script.js.map" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/5. Internal modules/TypeScript/script.js.map" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/10. Debugging and source maps/10. Debugging and source maps.iml" afterPath="$PROJECT_DIR$/10. Definetely typed/10. Definetely typed.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/11. TypeScript vs Dart vs CoffeeScript/11. TypeScript vs Dart vs CoffeeScript.iml" afterPath="$PROJECT_DIR$/11. Debugging and source maps/11. Debugging and source maps.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/12. Refactoring/12. Refactoring.iml" afterPath="$PROJECT_DIR$/12. TypeScript vs Dart vs CoffeeScript/12. TypeScript vs Dart vs CoffeeScript.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4. Interfaces/4. Interfaces.iml" afterPath="$PROJECT_DIR$/5. Interfaces/5. Interfaces.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4. Interfaces/TypeScript/index.html" afterPath="$PROJECT_DIR$/5. Interfaces/TypeScript/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4. Interfaces/TypeScript/script.ts" afterPath="$PROJECT_DIR$/5. Interfaces/TypeScript/script.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5. Internal modules/5. Internal modules.iml" afterPath="$PROJECT_DIR$/6. Internal modules/6. Internal modules.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5. Internal modules/JavaScript/index.html" afterPath="$PROJECT_DIR$/6. Internal modules/JavaScript/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5. Internal modules/JavaScript/script.js" afterPath="$PROJECT_DIR$/6. Internal modules/JavaScript/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5. Internal modules/TypeScript/index.html" afterPath="$PROJECT_DIR$/6. Internal modules/TypeScript/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5. Internal modules/TypeScript/script.js" afterPath="$PROJECT_DIR$/6. Internal modules/TypeScript/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5. Internal modules/TypeScript/script.ts" afterPath="$PROJECT_DIR$/6. Internal modules/TypeScript/script.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6. External modules/6. External modules.iml" afterPath="$PROJECT_DIR$/7. External modules/7. External modules.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/7. Automation tools/7. Automation tools.iml" afterPath="$PROJECT_DIR$/13. Refactoring/13. Refactoring.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/8. Testing/8. Testing.iml" afterPath="$PROJECT_DIR$/8. Automation tools/8. Automation tools.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/9. Definetely typed/9. Definetely typed.iml" afterPath="$PROJECT_DIR$/9. Testing/9. Testing.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Example-1. Hello world.iws" />
@@ -52,7 +67,7 @@
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. Interfaces/TypeScript/index.html">
+        <entry file="file://$PROJECT_DIR$/5. Interfaces/TypeScript/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="240">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -61,11 +76,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.ts" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4. Interfaces/TypeScript/script.ts">
+      <file leaf-file-name="script.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5. Interfaces/TypeScript/script.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7345133" vertical-offset="132" max-vertical-offset="810">
-              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="810">
+              <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+              <folding>
+                <marker date="1402019850955" expanded="true" signature="400:580" placeholder="..." />
+                <marker date="1402019850955" expanded="true" signature="492:578" placeholder="{...}" />
+                <marker date="1402019850955" expanded="true" signature="509:571" placeholder="{&quot;speed&quot;: 100...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.ts" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6. Internal modules/TypeScript/script.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7787611" vertical-offset="192" max-vertical-offset="1095">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -164,6 +193,7 @@
         <option value="$PROJECT_DIR$/4. Enums/TypeScript/1. Introduction/script.ts" />
         <option value="$PROJECT_DIR$/4. Enums/TypeScript/script.ts" />
         <option value="$PROJECT_DIR$/4. Interfaces/TypeScript/script.ts" />
+        <option value="$PROJECT_DIR$/5. Internal modules/TypeScript/script.ts" />
       </list>
     </option>
   </component>
@@ -207,54 +237,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Example-1. Hello world" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Example-1. Hello world" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4. Interfaces" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Example-1. Hello world" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4. Interfaces" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TypeScript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Example-1. Hello world" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4. Enums" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Example-1. Hello world" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4. Enums" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TypeScript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -517,7 +499,7 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
     <frame x="43" y="21" width="1323" height="747" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -558,7 +540,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="+ Перечисления." />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Перечисления." />
+    <MESSAGE value="+ Интерфейсы." />
+    <option name="LAST_COMMIT_MESSAGE" value="+ Интерфейсы." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -606,28 +589,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5. Internal modules/5. Internal modules.iml">
+    <entry file="file://$PROJECT_DIR$/6. Internal modules/6. Internal modules.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="658">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5. Internal modules/JavaScript/index.html">
+    <entry file="file://$PROJECT_DIR$/6. Internal modules/JavaScript/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5. Internal modules/TypeScript/script.js">
+    <entry file="file://$PROJECT_DIR$/6. Internal modules/TypeScript/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="795">
           <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5. Internal modules/TypeScript/index.html">
+    <entry file="file://$PROJECT_DIR$/6. Internal modules/TypeScript/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
@@ -866,15 +849,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5. Internal modules/TypeScript/script.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7251908" vertical-offset="365" max-vertical-offset="1020">
-          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5. Internal modules/JavaScript/script.js">
+    <entry file="file://$PROJECT_DIR$/6. Internal modules/JavaScript/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.32061067" vertical-offset="30" max-vertical-offset="840">
           <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
@@ -924,7 +899,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4. Interfaces/TypeScript/index.html">
+    <entry file="file://$PROJECT_DIR$/5. Interfaces/TypeScript/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="678">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -932,10 +907,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4. Interfaces/TypeScript/script.ts">
+    <entry file="file://$PROJECT_DIR$/5. Interfaces/TypeScript/script.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7345133" vertical-offset="132" max-vertical-offset="810">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="810">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          <folding>
+            <marker date="1402019850955" expanded="true" signature="400:580" placeholder="..." />
+            <marker date="1402019850955" expanded="true" signature="492:578" placeholder="{...}" />
+            <marker date="1402019850955" expanded="true" signature="509:571" placeholder="{&quot;speed&quot;: 100...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6. Internal modules/TypeScript/script.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7787611" vertical-offset="192" max-vertical-offset="1095">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
