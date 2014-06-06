@@ -47,3 +47,10 @@ d(123);
  */
 document.body.addEventListener('click', function(e) { console.log(this); });
 document.body.addEventListener('click', (e) => { console.log(this); });
+
+
+function  test(a:number)
+{
+
+}
+

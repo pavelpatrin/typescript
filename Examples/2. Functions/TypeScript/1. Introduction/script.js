@@ -47,4 +47,7 @@ document.body.addEventListener('click', function (e) {
 document.body.addEventListener('click', function (e) {
     console.log(_this);
 });
+
+function test(a) {
+}
 //# sourceMappingURL=script.js.map

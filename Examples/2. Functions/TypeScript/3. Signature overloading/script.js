@@ -18,8 +18,9 @@ test(true, true);
 
 // Ок.
 test(1, 2, true);
+
 // Ошибка компиляции.
-//test(1, 2);
+test(1, 2);
 // Ошибка компиляции.
 //test('1', 2);
 //# sourceMappingURL=script.js.map
