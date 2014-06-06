@@ -11,31 +11,20 @@ class SomeClass
         alert('Class constructor called!');
     }
 
+    /**
+     * Публичный метод.
+     */
     public someMethod()
     {
         alert('someMethod() called');
-
-//        (() => {
-//            alert(this);
-//        })();
-//
-//        (function() {
-//            alert(this);
-//        })();
-//
-//        document.querySelector('body').addEventListener('click', () => {
-//            this.property = '12345';
-//        });
     }
 
+    /**
+     * Статичный метод.
+     */
     public static someStaticMethod()
     {
         alert('someStaticMethod() called');
-    }
-
-    private static somePrivateStaticMethod()
-    {
-        alert('somePrivateStaticMethod() called');
     }
 
     /**
@@ -44,19 +33,11 @@ class SomeClass
     private get property():string {
         return this._property;
     }
-
-    /**
-     * Мутатор свойства.
-     */
-    private set property(value:string) {
-        this._property = value;
-    }
 }
 
 // Ок.
-//SomeClass.someStaticMethod();
+SomeClass.someStaticMethod();
 
-// Ошибка компиляции.
-//SomeClass.somePrivateStaticMethod();
-
-(new SomeClass()).someMethod();
+// Ок.
+var instance = new SomeClass();
+instance.someMethod();

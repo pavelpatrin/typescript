@@ -4,9 +4,9 @@
 
 class SomeClass
 {
-    constructor()
+    constructor(...args)
     {
-        alert('Class constructor called!');
+        alert('SomeClass constructor called!');
     }
 
     public someMethod()
@@ -22,9 +22,10 @@ class SomeClass
 
 class ChildSomeClass extends SomeClass
 {
-    public constructor()
+    constructor()
     {
         super();
+        alert('ChildSomeClass constructor called!');
     }
 
     public someMethod()

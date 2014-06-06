@@ -9,7 +9,11 @@ var __extends = this.__extends || function (d, b) {
 };
 var SomeClass = (function () {
     function SomeClass() {
-        alert('Class constructor called!');
+        var args = [];
+        for (var _i = 0; _i < (arguments.length - 0); _i++) {
+            args[_i] = arguments[_i + 0];
+        }
+        alert('SomeClass constructor called!');
     }
     SomeClass.prototype.someMethod = function () {
         alert('someMethod() called');
@@ -25,6 +29,7 @@ var ChildSomeClass = (function (_super) {
     __extends(ChildSomeClass, _super);
     function ChildSomeClass() {
         _super.call(this);
+        alert('ChildSomeClass constructor called!');
     }
     ChildSomeClass.prototype.someMethod = function () {
         alert('overridden someMethod() called');

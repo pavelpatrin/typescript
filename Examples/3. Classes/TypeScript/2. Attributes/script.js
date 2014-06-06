@@ -3,23 +3,7 @@
 */
 var SomeClass = (function () {
     function SomeClass() {
-        this._property = 'Test';
-        alert('Class constructor called!');
     }
-    /**
-    * Публичный метод.
-    */
-    SomeClass.prototype.someMethod = function () {
-        alert('someMethod() called');
-    };
-
-    /**
-    * Статичный метод.
-    */
-    SomeClass.someStaticMethod = function () {
-        alert('someStaticMethod() called');
-    };
-
     Object.defineProperty(SomeClass.prototype, "property", {
         /**
         * Аксессор свойства.
@@ -27,16 +11,21 @@ var SomeClass = (function () {
         get: function () {
             return this._property;
         },
+        /**
+        * Мутатор свойства.
+        */
+        set: function (value) {
+            this._property = value;
+        },
         enumerable: true,
         configurable: true
     });
+
     return SomeClass;
 })();
 
-// Ок.
-SomeClass.someStaticMethod();
-
-// Ок.
 var instance = new SomeClass();
-instance.someMethod();
+instance.property = "Hello world";
+
+alert(instance.property);
 //# sourceMappingURL=script.js.map
