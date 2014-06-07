@@ -10,7 +10,6 @@
         <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/2. Inheritance/script.js" />
         <item url="file://$PROJECT_DIR$/7. External modules/TypeScript/main.js" />
         <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/5. Generics. Complex example/script.js" />
-        <item url="file://$PROJECT_DIR$/10. Definetely typed/TypeScrpit/script.js" />
         <item url="file://$PROJECT_DIR$/5. Interfaces/TypeScript/script.js" />
         <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/2. Attributes/script.js" />
         <item url="file://$PROJECT_DIR$/6. Internal modules/TypeScript/script.js" />
@@ -20,7 +19,9 @@
         <item url="file://$PROJECT_DIR$/9. Testing/TypeScript/calculations-test.js" />
         <item url="file://$PROJECT_DIR$/9. Testing/TypeScript/tsUnit.js" />
         <item url="file://$PROJECT_DIR$/9. Testing/TypeScript/calculations.js" />
+        <item url="file://$PROJECT_DIR$/12. Refactoring/TypeScript/script.js" />
         <item url="file://$PROJECT_DIR$/1. Hello world/TypeScript/2. Advanced/script.js" />
+        <item url="file://$PROJECT_DIR$/11. Debugging and source maps/TypeScript/script.js" />
         <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/1. Introduction/script.js" />
         <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/4. Access modifiers/script.js" />
       </sourceFilesUrls>
@@ -50,7 +51,9 @@
       <root url="file://$PROJECT_DIR$/9. Testing/TypeScript/calculations-test.js" />
       <root url="file://$PROJECT_DIR$/9. Testing/TypeScript/tsUnit.js" />
       <root url="file://$PROJECT_DIR$/9. Testing/TypeScript/calculations.js" />
+      <root url="file://$PROJECT_DIR$/12. Refactoring/TypeScript/script.js" />
       <root url="file://$PROJECT_DIR$/1. Hello world/TypeScript/2. Advanced/script.js" />
+      <root url="file://$PROJECT_DIR$/11. Debugging and source maps/TypeScript/script.js" />
       <root url="file://$PROJECT_DIR$/2. Functions/TypeScript/1. Introduction/script.js" />
       <root url="file://$PROJECT_DIR$/3. Classes/TypeScript/4. Access modifiers/script.js" />
     </CLASSES>
