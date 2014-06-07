@@ -26,6 +26,7 @@ module.exports = function (grunt)
                 }
             }
         }
+        // tslint here...
     });
 
     // Set default task.
