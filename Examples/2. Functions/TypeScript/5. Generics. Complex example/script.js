@@ -1,7 +1,6 @@
 /**
 * Created by pavelpat on 03.06.14.
 */
-var _this = this;
 
 function compare(x, y) {
     if (x == null) {
@@ -19,22 +18,22 @@ var NumberComparableValue = (function () {
         this.value = value;
     }
     NumberComparableValue.prototype.localeCompare = function (other) {
-        return this.value - other;
+        return this.value - other.value;
     };
     return NumberComparableValue;
 })();
 
-compare(new NumberComparableValue(1), new NumberComparableValue(2));
+console.log(compare(new NumberComparableValue(1), new NumberComparableValue(2)));
 
-compare({
+console.log(compare({
     localeCompare: function (other) {
-        return _this.value - other;
+        return this.value - other.value;
     },
     value: 1
 }, {
     localeCompare: function (other) {
-        return _this.value - other;
+        return this.value - other.value;
     },
     value: 2
-});
+}));
 //# sourceMappingURL=script.js.map

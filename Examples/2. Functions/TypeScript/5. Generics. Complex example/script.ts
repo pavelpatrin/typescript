@@ -4,7 +4,8 @@
 
 interface Comparable
 {
-    localeCompare(other:any): number;
+    localeCompare(other:Comparable): number;
+    value: number;
 }
 
 function compare<T extends Comparable>(x:T, y:T):number
@@ -22,28 +23,41 @@ function compare<T extends Comparable>(x:T, y:T):number
 }
 
 
-
 class NumberComparableValue implements Comparable
 {
-    constructor(public value:number){}
-
-    public localeCompare(other:any):number
+    constructor(public value:number)
     {
-        return this.value - other;
+    }
+
+    public localeCompare(other:Comparable):number
+    {
+        return this.value - other.value;
     }
 }
 
-compare(new NumberComparableValue(1), new NumberComparableValue(2));
+console.log(
+    compare(
+        new NumberComparableValue(1),
+        new NumberComparableValue(2)
+    )
+);
 
-
-compare(
-    {
-        localeCompare: (other:any):number => this.value - other,
-        value: 1
-    },
-    {
-        localeCompare: (other:any):number => this.value - other,
-        value: 2
-    }
+console.log(
+    compare(
+        {
+            localeCompare: function (other:Comparable):number
+            {
+                return this.value - other.value;
+            },
+            value: 1
+        },
+        {
+            localeCompare: function (other:Comparable):number
+            {
+                return this.value - other.value;
+            },
+            value: 2
+        }
+    )
 );
 
