@@ -10,13 +10,14 @@
         <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/2. Inheritance/script.js" />
         <item url="file://$PROJECT_DIR$/7. External modules/TypeScript/main.js" />
         <item url="file://$PROJECT_DIR$/2. Functions/TypeScript/5. Generics. Complex example/script.js" />
+        <item url="file://$PROJECT_DIR$/10. Definetely typed/TypeScrpit/script.js" />
         <item url="file://$PROJECT_DIR$/5. Interfaces/TypeScript/script.js" />
         <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/2. Attributes/script.js" />
         <item url="file://$PROJECT_DIR$/6. Internal modules/TypeScript/script.js" />
         <item url="file://$PROJECT_DIR$/4. Enums/TypeScript/script.js" />
         <item url="file://$PROJECT_DIR$/1. Hello world/TypeScript/1. Introduction/script.js" />
         <item url="file://$PROJECT_DIR$/3. Classes/TypeScript/3. Static keyword/script.js" />
-        <item url="file://$PROJECT_DIR$/9. Testing/TypeScript/test.js" />
+        <item url="file://$PROJECT_DIR$/9. Testing/TypeScript/calculations-test.js" />
         <item url="file://$PROJECT_DIR$/9. Testing/TypeScript/tsUnit.js" />
         <item url="file://$PROJECT_DIR$/9. Testing/TypeScript/calculations.js" />
         <item url="file://$PROJECT_DIR$/1. Hello world/TypeScript/2. Advanced/script.js" />
@@ -39,6 +40,7 @@
       <root url="file://$PROJECT_DIR$/3. Classes/TypeScript/2. Inheritance/script.js" />
       <root url="file://$PROJECT_DIR$/2. Functions/TypeScript/5. Generics. Complex example/script.js" />
       <root url="file://$PROJECT_DIR$/7. External modules/TypeScript/main.js" />
+      <root url="file://$PROJECT_DIR$/10. Definitely typed/TypeScrpit/script.js" />
       <root url="file://$PROJECT_DIR$/5. Interfaces/TypeScript/script.js" />
       <root url="file://$PROJECT_DIR$/3. Classes/TypeScript/2. Attributes/script.js" />
       <root url="file://$PROJECT_DIR$/4. Enums/TypeScript/script.js" />
